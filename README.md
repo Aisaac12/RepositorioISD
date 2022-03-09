@@ -6,3 +6,5 @@ Integrantes del equipo:
 José Isaac Cardona Candelas
 
 Juan Antonio Villa Guerrero
+
+Jairo Jesús Marquez Covarrubias
